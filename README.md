@@ -1,6 +1,6 @@
-<h1># Mental_health_treatment</h1>
+<h1>W. I. T.</h1>
 <ul>
-<li>This is a web based application intented to improve mental health of people suffering from mental illness such as mood disorders such as
+<li>W.I.T. (We're In this Together) is a web based application intented to improve mental health of people suffering from mental illness such as
 <ul>
 depression or bipolar disorder,
 anxiety disorders,
@@ -8,6 +8,7 @@ personality disorders,
 psychotic disorders (such as schizophrenia),
 eating disorders,
 trauma-related disorders (such as post-traumatic stress disorder),
+mood disorders,
 substance abuse disorders.
 </ul>
 </li>
